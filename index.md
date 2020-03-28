@@ -1,5 +1,5 @@
-## Virtual Hospital Project 
-## An Hospital Service Integration and testing platform
+Virtual Hospital Project 
+# An Hospital Service Integration and testing platform
 ### Testing equipment and service allocations in real time based several available parameters and fine tuning of optimizations
 
 - Bulleted
