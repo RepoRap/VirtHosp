@@ -1,24 +1,22 @@
 # Virtual Hospital Project 
 # An Hospital Service Integration and testing platform
 ### Testing equipment and service allocations in real time based several available parameters and fine tuning of optimizations
+This project is about allowing contributors and innovators to implement their solutions on vitrual patients and see the effectivity of solution on the patient virtually. As it is a starter project, THis year we are aiming to simulate exact solutions for handling coronavirus and implement solutions in avirtual environement based on dat astatistics and provide solutions from broader spectrum to carter solutions to hospitals and innovators to try and test out the hospital emulator based on patient population and contagious score. In order to assimilate this simulation there is a dire need of the following people in the project. PLease click the google link and apply so that we can accomodate the people in appropriate groups and monitor the progress of the project as part of our efforts.
 
-- Bulleted
-- List
+1. CAD and 3D modelers
 
-1. Numbered
-2. List
+2. Unity Developers
 
-**Bold** and _Italic_ and `Code` text
+3. Embedded system developers
 
-[Link](url) and ![Image](src)
-```
+4. Mechanical Design Engineers
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+5. Cloud Computing Enthusiasts
 
-### Jekyll Themes
+6. Machine Learning and Data Science Enthusiasts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vsai97/VirtHosp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+7. Chatbot developers
 
-### Support or Contact
+8. System Integration developers and DevOps members
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+9. Other enthusiasts
