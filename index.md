@@ -21,7 +21,7 @@ This project is about allowing contributors and innovators to implement their so
 
 9. Other enthusiasts
 
-Please click [here] (https://forms.gle/EvEc3mBh23XrUsmN9)to register for this project
+Please click [here](https://forms.gle/EvEc3mBh23XrUsmN9) to register for this project
 
 If Link doesn't work please do copy and paste this link in your browser: https://forms.gle/EvEc3mBh23XrUsmN9
 
