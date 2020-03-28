@@ -20,3 +20,7 @@ This project is about allowing contributors and innovators to implement their so
 8. System Integration developers and DevOps members
 
 9. Other enthusiasts
+
+Please click here to register for this project: https://docs.google.com/forms/d/e/1FAIpQLSdW77azWsT_ci9vQ7InK1CGUR802e6wE5JeLj3l0uUkWkJ4NA/viewform?usp=sf_link
+
+THe first webinar for this project will be decalred soon
